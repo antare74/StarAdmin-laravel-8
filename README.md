@@ -22,7 +22,6 @@ Within the download you'll find the following directories and files, logically g
 ```
 StarAdmin-Free-Laravel-Admin-Template/
 ├── documentation/
-├── template/
 ├── README.md
 ├── preview.jpg
 
