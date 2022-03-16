@@ -32,10 +32,7 @@ StarAdmin-Free-Laravel-Admin-Template/
 
 ``` bash
 # clone the repo
-$ git clone https://github.com/BootstrapDash/StarAdmin-Free-Laravel-Admin-Template.git
-
-# Go to app's directory
-$ cd StarAdmin-Free-Laravel-Admin-Template/template/
+$ git clone https://github.com/antare74/StarAdmin-laravel-8.git
 
 # Install dependencies
 npm install
