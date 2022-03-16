@@ -20,7 +20,7 @@ Visit: http://www.bootstrapdash.com/demo/star-laravel-free/template/
 Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
 
 ```
-StarAdmin-Free-Laravel-Admin-Template/
+StarAdmin-laravel-8/
 ├── documentation/
 ├── README.md
 ├── preview.jpg
